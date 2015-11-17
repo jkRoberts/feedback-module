@@ -1,0 +1,11 @@
+Page:
+  extensions:
+    - FeedbackModulePageExtension
+
+Page_Controller:
+  extensions:
+    - FeedbackModulePageControllerExtension
+
+SiteConfig:
+  extensions:
+    - FeedbackModuleSiteConfig

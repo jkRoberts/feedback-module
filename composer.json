@@ -1,0 +1,7 @@
+{
+  "name": "dnadesign/feedback",
+  "description": "A Feedback module for Silverstripe",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe"],
+  "license": "BSD-3-Clause"
+}
