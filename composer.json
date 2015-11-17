@@ -1,5 +1,5 @@
 {
-  "name": "jkRoberts/feedback",
+  "name": "jkroberts/feedback",
   "description": "A Feedback module for Silverstripe",
   "type": "silverstripe-module",
   "keywords": ["silverstripe"],
